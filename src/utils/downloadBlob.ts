@@ -1,0 +1,6 @@
+export default function downloadBlob(blob: Blob, fileName: string) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = fileName;
+  a.click();
+}

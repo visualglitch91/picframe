@@ -1,0 +1,10 @@
+{
+  "theme_color": "#242e42",
+  "background_color": "#242e42",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "PicFrame",
+  "short_name": "PicFrame",
+  "icons": []
+}
