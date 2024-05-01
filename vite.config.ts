@@ -7,6 +7,9 @@ const baseUrl = "/";
 
 export default defineConfig({
   base: baseUrl,
+  server: {
+    host: "0.0.0.0",
+  },
   build: {
     outDir: `${__dirname}/dist`,
   },

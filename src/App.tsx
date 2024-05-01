@@ -15,9 +15,9 @@ const config = {
   height: canvasHeigth,
   minFinalWidth: 1400,
   maxFinalWidth: 1800,
-  paddingTop: 0.0625,
-  paddingHorizontal: 0.0625,
-  paddingBottom: 0.25,
+  paddingTop: 0.08,
+  paddingHorizontal: 0.08,
+  paddingBottom: 0.28,
 };
 
 const canvasStyle = {
